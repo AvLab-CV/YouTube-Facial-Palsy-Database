@@ -13,6 +13,6 @@ The patient in each video speaks to the camera and the camera records the facial
 - We labeled the intensity observed in each palsy region as 0.5 for low or 1.0 for high.
 - In addition to the syndrome intensity, we also labeled the palsy regions into Classes Eyes or Mouth. 
 
-We hope that the YouTube Facial Palsy (YFP) Database could revolutionized the landscape of facial palsy research. A detailed introduction of YFP can be found in the paper(https://ieeexplore.ieee.org/document/8558494).
+We hope that the YouTube Facial Palsy (YFP) Database could revolutionized the landscape of facial palsy research. A detailed introduction of YFP can be found in the [paper](https://ieeexplore.ieee.org/document/8558494).
 
 Here are some examples from the dataset.
