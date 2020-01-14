@@ -17,6 +17,7 @@ We hope that the YouTube Facial Palsy (YFP) Database could revolutionized the la
 
 Here are some examples from the dataset.
 
+![Alt text](YFP_Samples.PNG?raw=true "Title")
 
 
 Update
