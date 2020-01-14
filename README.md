@@ -66,10 +66,6 @@ To guarantee the proper use of this database, the following restrictions must be
  
 No country or institution is excluded of any of the above restrictions. Failure to follow the restrictions will be legally prosecuted.
 
-Download Link
--
-[YFP Download Link](https://drive.google.com/file/d/1eqkSIdWbh-eGLrtAjpMUsi0T1DcEN2ti/view?usp=sharing)
-
 
 Citation and Contact
 --
