@@ -71,12 +71,12 @@ No country or institution is excluded of any of the above restrictions. Failure 
 Citation and Contact
 --
 If you like our work or find YFP dataset useful, please cite the following paper：
-
+```
 @article{hsu2018deep,
   title={Deep hierarchical network with line segment learning for quantitative analysis of facial palsy},
   author={Hsu, Gee-Sern Jison and Kang, Jiunn-Horng and Huang, Wen-Fong},
   journal={IEEE Access},
   year={2018},
 }
-
+```
 Any suggestion or comment would be valuable. Please send an email to corresponding author (Gee-Sern Hsu) or Database administrator.
