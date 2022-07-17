@@ -69,7 +69,8 @@ No country or institution is excluded of any of the above restrictions. Failure 
 
 Download Link
 -
-[YFP Download Link](https://drive.google.com/open?id=1D0bMXESiVafB4bSsxi7zPK4hUoPxXDHv)
+[YFP Download Link1](https://drive.google.com/drive/folders/1JLaqtKQCrn4koqmncTb724KwCiLc4Bls?usp=sharing)
+[YFP Download Link2](https://drive.google.com/drive/folders/1cvDveqWJoxj-MnLupZUBL1WkcJsDk9ex?usp=sharing)
 
 Citation and Contact
 --
